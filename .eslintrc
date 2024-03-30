@@ -59,7 +59,7 @@
   },
   "overrides": [
     {
-      "files": ["**/*.ts"],
+      "files": ["lib/test/*.ts"],
       "parserOptions": {
          "project": "./tsconfig.json"
       },
